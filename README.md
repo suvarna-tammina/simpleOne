@@ -1,5 +1,8 @@
 # simpleOne
 
-A very simple github project.
+A very simple github project
 
-hello.. this is Teja......
+Teja..
+
+Go Ducks
+
